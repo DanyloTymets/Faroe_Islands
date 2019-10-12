@@ -44,6 +44,7 @@ header,
 	
 }
 .carousel-item img {
- 	height: 500px !important;
-    width: 100% !important;
+ 	height: auto;
+  min-height: 350px;
+  width: 100% !important;
 }
