@@ -78,3 +78,25 @@ padding-left: 1.1rem;
 padding-right: 1.1rem;
 }
 }
+
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.btn-primary {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: #5F9EA0;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid #5F9EA0;
+  border-radius: 40px;
+  background: transparent;
+  background-color: #fff !important;
+  transition: all 0.3s ease 0s;
+}
+.btn-primary:hover {
+  color: #5F9EA0;
+  background: rgba(58, 133, 191, 0.75);
+  border: 2px solid rgba(58, 133, 191, 0.75);
+}
